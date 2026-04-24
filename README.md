@@ -33,7 +33,7 @@
 ####          Birth Year = Current Year - Age
 ### 7. Finally, the program shows the result in a clean format.
 
-## 🛠️ Technologies Used
+## 🛠️ Tools and technologies Used
 
 ### • Python
 ### • Jupyter Notebook
